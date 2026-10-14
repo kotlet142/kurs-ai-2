@@ -1,0 +1,11 @@
+Wyłącz laptop oraz monitor z prądu przed podłączeniem kabli, aby uniknąć spięcia. Jak sprawdzić: Upewnij się, że diody zasilania na obu urządzeniach są całkowicie zgaśnięte.
+
+Podłącz jeden koniec przewodu HDMI do portu HDMI w laptopie, a drugi koniec do portu HDMI w monitorze. Jak sprawdzić: Upewnij się, że wtyczki są stabilnie włożone do gniazd do oporu.
+
+Włącz monitor, a następnie uruchom swój laptop. Jak sprawdzić: Monitor powinien się zaświecić, a jego dioda zasilania powinna zmienić kolor na aktywny (np. niebieski lub zielony).
+
+Otwórz menu ustawień (OSD) za pomocą przycisków na monitorze i w sekcji wyboru źródła sygnału (Input Source) wybierz opcję HDMI. Jak sprawdzić: Na ekranie monitora powinien pojawić się obraz z pulpitu Twojego laptopa zamiast komunikatu o braku sygnału.
+
+Kliknij prawym przyciskiem myszy na pulpit laptopa, wybierz "Ustawienia ekranu" (Display Settings) i przejdź do sekcji rozdzielczości. Jak sprawdzić: Upewnij się, że wybrane ustawienie odpowiada domyślnej rozdzielczości ekranu monitora, a obraz jest wyraźny.
+
+Sprawdź, czy okna i kursor myszy płynnie przemieszczają się między ekranem laptopa a monitorem. Jak sprawdzić: Przeciągnij okno przeglądarki na krawędź ekranu, aby upewnić się, że pojawia się ono na drugim wyświetlaczu.
