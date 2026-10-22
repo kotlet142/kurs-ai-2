@@ -1,0 +1,21 @@
+**Opis sali informatycznej**
+
+Sala informatyczna jest przestronna i ma szare ściany oraz jasny sufit z oświetleniem. Na przedniej ścianie znajdują się dwie tablice: po lewej stronie tablica multimedialna do wyświetlania prezentacji, a po prawej stronie tradycyjna biała tablica. Obok tablicy multimedialnej stoi nauczyciel, który tłumaczy uczniom zagadnienia związane z wykonywaniem projektów informatycznych.
+
+Na tylnej ścianie, dokładnie pośrodku, znajdują się drzwi wejściowe. Uczniowie siedzą tyłem do drzwi i przodem do tablic.
+
+Po lewej stronie sali, przy szarej ścianie, ustawione są cztery ławki. Na jednej z nich znajdują się dwa komputery. Po prawej stronie sali znajdują się duże okna. Są one rozmieszczone w dwóch grupach: pierwsza obejmuje cztery okna oddzielone wystającymi filarami, a dalej znajdują się kolejne dwa okna. Wzdłuż tej ściany ustawiono cztery ławki, z odstępami wynoszącymi około jednego metra.
+
+**Rozmieszczenie uczniów**
+
+Po lewej stronie sali, w ostatniej ławce, siedzi dwóch uczniów. W ławce przed nimi siedzi jeden uczeń, natomiast kolejne miejsca z przodu pozostają puste.
+
+Po prawej stronie sali, licząc od tyłu w kierunku tablicy, w pierwszej ławce siedzi dwóch uczniów, w następnej jeden uczeń, a w kolejnej dwóch uczniów. Przed nimi znajdują się jeszcze dwie ławki wyposażone w komputery, przy których również mogą pracować uczniowie.
+
+Nie wszystkie miejsca w sali są zajęte, dzięki czemu pomieszczenie wygląda naturalnie i pozostawia wolną przestrzeń między ławkami.
+
+**Praca podczas lekcji**
+
+Uczniowie pracują przy komputerach nad projektami informatycznymi. Korzystają z ChatGPT, aby uzyskać pomoc w planowaniu, rozwiązywaniu problemów i tworzeniu kodu, a także z GitHuba, aby przechowywać projekty oraz zarządzać ich wersjami. Na ekranach komputerów widoczne są interfejsy tych narzędzi i fragmenty kodu programistycznego.
+
+Cała scena przedstawia realistyczną lekcję informatyki: nauczyciel wyjaśnia zagadnienia przy tablicy multimedialnej, a uczniowie siedzą w różnych częściach sali i samodzielnie realizują swoje projekty.
